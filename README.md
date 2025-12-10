@@ -1,7 +1,5 @@
 # Olá, eu sou a Juliana 👋  **jujuhjuh**
 
-![GIF de boas-vindas](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlpbGJzY2gyYXpxNDhwanhydDd1cWg2NnA2ZzNuY3l4dWE3cHp3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPxg9U887PS0B8XT4J/giphy.gif)
-
 
 ## 🌱 Sobre mim
 - Estudante de **Desenvolvimento de Sistemas**  
