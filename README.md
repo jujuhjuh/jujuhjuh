@@ -23,7 +23,7 @@
 
 
 ## 📫 Conecte-se comigo
-[LinkedIn](www.linkedin.com/in/juliana-f-137383234) | [Portfólio](https://github.com/jujuhjuh) | 
+[LinkedIn](https://www.linkedin.com/in/juliana-f-137383234) | [Portfólio](https://github.com/jujuhjuh) | 
 
 
 
